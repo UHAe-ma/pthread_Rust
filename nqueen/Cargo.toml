@@ -1,0 +1,6 @@
+[package]
+name = "nqueen"
+version = "0.1.0"
+authors = ["Yuki Sawada(VAIO_flip) <416825@m.mie-u.ac.jp>"]
+
+[dependencies]
