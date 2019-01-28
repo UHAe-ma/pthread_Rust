@@ -1,0 +1,5 @@
+[book]
+authors = ["Yuki Sawada(VAIO_flip)"]
+multilingual = false
+src = "src"
+title = "pthread_Rust"
