@@ -4,4 +4,3 @@ multilingual = false
 src = "src"
 title = "pthread_Rust"
 
-[output.epub]
